@@ -1,5 +1,5 @@
 {
-  "domain": "<< Enter your value here e.g. dev-abc12345.auth0.com >>",
-  "clientId": "<< Enter your value here >>",
+  "domain": "dev-x1-v0idn.us.auth0.com",
+  "clientId": "BJFq5T3OeFyQszYYuxSu0y6mfTZRjLvx",
   "audience": "https://auth0-jwt-authorizer"
 }
